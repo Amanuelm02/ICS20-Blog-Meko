@@ -18,7 +18,7 @@ Daily Blogs will be posted here
         <h2>First post</h2>
         
         <p>Something excited happened!
-            I made this blog and continued to complete <br>things in khan academy. 
+            I made this blog and continued to complete things in khan academy. 
         </p>
         </body>
 </html>
