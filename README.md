@@ -12,13 +12,13 @@ Daily Blogs will be posted here
 
         <h3>Contents</h3>
         <ul>
-            <li>First post!</li>
+            <li>Secong post!</li>
         </ul>
         
-        <h2>First post</h2>
+        <h2>Second post</h2>
         
         <p>Something excited happened!
-            I made this blog and continued to complete things in khan academy. 
+            Today I learned a bunch of CSS text properties that will help me out with future coding. 
         </p>
         </body>
 </html>
