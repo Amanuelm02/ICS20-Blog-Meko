@@ -12,7 +12,7 @@ Daily Blogs will be posted here
 
         <h3>Contents</h3>
         <ul>
-            <li>Secong post!</li>
+            <li>Second post!</li>
         </ul>
         
         <h2>Second post</h2>
